@@ -2,4 +2,4 @@ script from [leanropencv](https://github.com/spmallick/learnopencv/tree/master/I
 
 after build, 
 
-copy **`{path}\installation/OpenCV-master/lib/python3.x/dist-packages/cv2`** to **`\usr\lib\python3.5\dist-packages/`**
+copy **`{path}\installation/OpenCV-master/lib/python3.x/dist-packages/cv2`** to **`\usr\lib\python3.5\dist-packages`**
