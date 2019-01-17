@@ -1,4 +1,4 @@
-script from ![leanropencv](https://github.com/spmallick/learnopencv)
+script from [leanropencv](https://github.com/spmallick/learnopencv)
 
 after build, 
 
